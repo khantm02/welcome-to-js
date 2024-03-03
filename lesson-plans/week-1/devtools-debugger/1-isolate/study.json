@@ -1,9 +1,0 @@
-{
-  "study": {
-    "ask": true,
-    "variables": true,
-    "trace": true,
-    "table": true,
-    "blanks": true
-  }
-}
