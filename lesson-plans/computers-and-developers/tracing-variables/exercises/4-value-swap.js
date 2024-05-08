@@ -26,3 +26,11 @@ console.log(a, b, t);
 // how are they changed from the initial values
 
 // is it possible to swap a and b without using t?
+
+
+let a = 1;
+let b = 2;
+let temp;
+temp = a;
+a = b;
+b = temp;
